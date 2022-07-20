@@ -14,4 +14,4 @@ Producing music and mixing generative audio with ORCA/WaveNet and FL Studio [(Li
 Making posters and creating cool things in Adobe Suite  
 Code-golfing and esoteric programming languages [(Link)](https://code.golf/golfers/alexpinch)  
 
-![Bonus image](https://lh3.googleusercontent.com/EHH0xyzcEBaK71iodC5VKShvCurrCRwSvtiNpy74vwfnznEgWuirlR7OMUwoH1oI02_zj07KUavnbvvwF6UGQ4OvXlt6ptLstjlaf_ofdwsctWFfzwHAfr8XWtU1NgAAKg=w1280)
+![Bonus image](https://raw.githubusercontent.com/alexpinch/alexpinch.github.io/gh-pages/images/me.png)
