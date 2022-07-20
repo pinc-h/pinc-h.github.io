@@ -8,7 +8,7 @@
 
 **Recent work**  
 Audio and video editor for Mental Health Society of Victoria [(Link)](https://www.youtube.com/channel/UCLASe6vSxNnNJvys95J2eiQ)  
-Volunteer research assistant for the Owens Lab at the University of Victoria  
+Pursuing a Bsc. in Biology at the University of Victoria
 			
 **Interests**  
 Programming simple biology-oriented scripts in Python and Ruby  
