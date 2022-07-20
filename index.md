@@ -1,4 +1,4 @@
-<img align="left" src="https://raw.githubusercontent.com/alexpinch/alexpinch.github.io/gh-pages/images/me.png">
+<img align="left" src="https://raw.githubusercontent.com/alexpinch/alexpinch.github.io/gh-pages/images/me.png" width=100/>
 
 **Personal Info**  
 [Github](https://github.com/alexpinch)  
