@@ -1,6 +1,6 @@
-<img align="left" src="https://raw.githubusercontent.com/alexpinch/alexpinch.github.io/gh-pages/images/me.png">
+{{ site.title }}  
 
-## Alex Pinch
+<img align="left" src="https://raw.githubusercontent.com/alexpinch/alexpinch.github.io/gh-pages/images/me.png">
 
 **Personal Info**  
 [Github](https://github.com/alexpinch)  
