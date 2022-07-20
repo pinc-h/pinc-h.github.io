@@ -13,3 +13,5 @@ Programming simple biology-oriented scripts in Python and Ruby
 Producing music and mixing generative audio with ORCA/WaveNet and FL Studio [(Link)](https://soundcloud.com/alexpinch/sample-sounds/s-UXw9TEVJt2r?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)  
 Making posters and creating cool things in Adobe Suite  
 Code-golfing and esoteric programming languages [(Link)](https://code.golf/golfers/alexpinch)  
+
+![Bonus image](https://lh3.googleusercontent.com/EHH0xyzcEBaK71iodC5VKShvCurrCRwSvtiNpy74vwfnznEgWuirlR7OMUwoH1oI02_zj07KUavnbvvwF6UGQ4OvXlt6ptLstjlaf_ofdwsctWFfzwHAfr8XWtU1NgAAKg=w1280)
