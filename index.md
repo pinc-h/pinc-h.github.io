@@ -4,6 +4,10 @@
 [Github](https://github.com/alexpinch)  
 [LinkedIn](https://www.linkedin.com/in/alexpinch/)  
 
+**GitHub Stats**
+![](https://raw.githubusercontent.com/alexpinch/github-stats-transparent/output/generated/overview.svg)
+![](https://raw.githubusercontent.com/alexpinch/github-stats-transparent/output/generated/languages.svg)
+
 **Recent work**  
 Audio and video editor for Mental Health Society of Victoria [(Link)](https://www.youtube.com/channel/UCLASe6vSxNnNJvys95J2eiQ)  
 Pursuing a Bsc. in Biology at the University of Victoria
