@@ -6,12 +6,12 @@
 
 **Recent work**  
 Audio and video editor for Mental Health Society of Victoria [(Link)](https://www.mhsvictoria.org/)  
-Research technician at the Owens Lab at the University of Victoria [(Link)](https://owensgl.github.io/)
+Research technician at the Owens Lab at the University of Victoria [(Link)](https://owensgl.github.io/)  
 			
 **Interests**  
 Programming simple biology-oriented scripts in Python and Ruby  
-Producing music and mixing generative audio with ORCA and FL Studio
-Code-golfing and esoteric programming languages
-
-**Languages**
+Producing music and mixing generative audio with ORCA and FL Studio  
+Code-golfing and esoteric programming languages  
+			
+**Languages**  
 ![](https://raw.githubusercontent.com/alexpinch/github-stats-transparent/output/generated/languages.svg)  
