@@ -1,6 +1,7 @@
-<img align="left" src="https://raw.githubusercontent.com/alexpinch/alexpinch.github.io/gh-pages/images/me_2.png" width=250/>   
+
   ㅤ  
   
+<img align="left" src="https://raw.githubusercontent.com/alexpinch/alexpinch.github.io/gh-pages/images/me_2.png" width=250/>   
 ## Alex Pinch  
   
 **Personal Info**  
