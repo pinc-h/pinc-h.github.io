@@ -1,6 +1,6 @@
 <img align="left" src="https://raw.githubusercontent.com/alexpinch/alexpinch.github.io/gh-pages/images/me_2.png" width=250/>   
   
-<font size = "20">**Alex Pinch**</font>  
+<span style = "font-size:20px"> **Alex Pinch** </span>  
   
 **Personal Info**  
 [GitHub](https://github.com/alexpinch)  
