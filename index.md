@@ -14,5 +14,5 @@ Audio and video editor for the Mental Health Society of Victoria [(Link)](https:
 Programming simple biology-oriented scripts in Python and Ruby  
 Producing music and mixing generative audio with ORCA and FL Studio  
 Code-golfing and esoteric programming languages  
-  
-![](https://raw.githubusercontent.com/alexpinch/github-stats-transparent/output/generated/languages.svg)  
+
+<img align="left" src="https://raw.githubusercontent.com/alexpinch/github-stats-transparent/output/generated/languages.svg" width=250/> 
