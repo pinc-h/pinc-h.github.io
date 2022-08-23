@@ -3,8 +3,8 @@
     
 **Personal Info**  
 Undergrad at UVic, learning computational biolology and wrangling data 🤠  
-	[GitHub](https://github.com/alexpinch)  
-	[LinkedIn](https://www.linkedin.com/in/alexpinch/)  
+[GitHub](https://github.com/alexpinch)  
+[LinkedIn](https://www.linkedin.com/in/alexpinch/)  
 
 **Recent work**  
 Research technician with the [Owens Lab](https://owensgl.github.io/) at the University of Victoria  
