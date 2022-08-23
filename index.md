@@ -2,7 +2,7 @@
 <img align="left" src="https://raw.githubusercontent.com/alexpinch/alexpinch.github.io/gh-pages/images/me_2.png" width=200/>  
     
 **Personal Info**  
-Undergrad at UVic, learning computational biolology and wrangling data 🤠  
+Undergrad at UVic, learning computational biology and wrangling data 🤠  
 [GitHub](https://github.com/alexpinch)  
 [LinkedIn](https://www.linkedin.com/in/alexpinch/)  
 
