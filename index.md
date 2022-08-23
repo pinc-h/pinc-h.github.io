@@ -15,5 +15,3 @@ Audio and video editor for the [Mental Health Society of Victoria](https://www.m
 **Social links**   
 [GitHub](https://github.com/alexpinch)  
 [LinkedIn](https://www.linkedin.com/in/alexpinch/)  
-  
-  
