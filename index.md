@@ -10,6 +10,7 @@ Research technician with the [Owens Lab](https://owensgl.github.io/) at the Univ
 Audio and video editor for the [Mental Health Society of Victoria](https://www.mhsvictoria.org/)  
   
 **Interests**  
+Scripting and automating daily life  
 Producing music with ORCA and FL Studio  
 Code-golfing and esoteric programming languages  
   
