@@ -1,7 +1,7 @@
 ## Alex Pinch  
 <img align="left" src="https://raw.githubusercontent.com/alexpinch/alexpinch.github.io/gh-pages/images/me_2.png" width=200/>  
   
-# Learning computational biology!
+**Biology student at UVic, wrangling data and learning bioinformatics**
   
 **Personal Info**  
 [GitHub](https://github.com/alexpinch)  
