@@ -6,8 +6,8 @@
 [LinkedIn](https://www.linkedin.com/in/alexpinch/)  
 
 **Recent work**  
-Research technician with the Owens Lab at the University of Victoria [(Link)](https://owensgl.github.io/)  
-Audio and video editor for the Mental Health Society of Victoria [(Link)](https://www.mhsvictoria.org/)  
+Research technician with the [Owens Lab](https://owensgl.github.io/) at the University of Victoria  
+Audio and video editor for the [Mental Health Society of Victoria](https://www.mhsvictoria.org/)  
 			
 **Interests**  
 Programming simple biology-oriented scripts in Python and Ruby  
