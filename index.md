@@ -10,10 +10,10 @@ Research technician with the [Owens Lab](https://owensgl.github.io/) at the Univ
 Audio and video editor for the [Mental Health Society of Victoria](https://www.mhsvictoria.org/)  
 			
 **Interests**  
-Producing music in ORCA and FL Studio  
+Producing music in ORCA and FL Studio   
 Code-golfing and esoteric programming languages  
   
-**Links**
+**Social links**   
 [GitHub](https://github.com/alexpinch)  
 [LinkedIn](https://www.linkedin.com/in/alexpinch/)  
   
