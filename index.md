@@ -1,9 +1,9 @@
 ## Alex Pinch  
 <img align="left" src="https://raw.githubusercontent.com/alexpinch/alexpinch.github.io/gh-pages/images/me_2.png" width=200/>  
    
-**About me**
-Novice data wrangler 🤠  
-Learning computational biology 🌿  
+**About me**  
+🤠 Novice data wrangler   
+🌿 Learning computational biology   
    
 **Personal Info**  
 [GitHub](https://github.com/alexpinch)  
