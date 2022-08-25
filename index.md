@@ -3,7 +3,7 @@
 <img align="right" src="https://raw.githubusercontent.com/alexpinch/github-stats-transparent/output/generated/languages.svg"/>  
    
 **About**  
-Learning to wrangle data as a biology undergrad at the University of Victoria                                         
+Learning to wrangle data as an undergrad at the University of Victoria                                         
   
 **Recent work**  
 Volunteer with the [Owens Lab](https://owensgl.github.io/)   
