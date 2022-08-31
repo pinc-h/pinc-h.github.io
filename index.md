@@ -12,8 +12,8 @@ Media editor for the [Mental Health Society of Victoria](https://www.mhsvictoria
 Producing music with ORCA and FL Studio  
 Code-golfing and esoteric programming languages  
   
+<img align="left" src="https://raw.githubusercontent.com/alexpinch/github-stats-transparent/output/generated/languages.svg"/>  
+  
 **Links**  
 [GitHub](https://github.com/alexpinch)  
 [LinkedIn](https://www.linkedin.com/in/alexpinch/)   
-  
-<img align="left" src="https://raw.githubusercontent.com/alexpinch/github-stats-transparent/output/generated/languages.svg"/>  
