@@ -14,8 +14,7 @@ Code-golfing and esoteric programming languages
   
 **Links**  
 [GitHub](https://github.com/alexpinch)  
-[LinkedIn](https://www.linkedin.com/in/alexpinch/)  
-  
-<img align="left" src="https://ghchart.rshah.org/alexpinch"/>  
+[LinkedIn](https://www.linkedin.com/in/alexpinch/)
+<img align="left" src="https://ghchart.rshah.org/alexpinch"/>    
 <img align="left" src="https://raw.githubusercontent.com/alexpinch/github-stats-transparent/output/generated/languages.svg"/>  
   
