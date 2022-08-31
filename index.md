@@ -3,6 +3,7 @@
   
 **About**  
 Undergrad at the University of Victoria, learning computational biology  
+In my free time, programming and data wrangling 🤠  
   
 **Recent work**  
 Volunteer with the [Owens Lab](https://owensgl.github.io/)   
