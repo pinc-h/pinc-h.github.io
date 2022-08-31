@@ -13,4 +13,4 @@ Media editor for the [Mental Health Society of Victoria](https://www.mhsvictoria
 [GitHub](https://github.com/alexpinch) [LinkedIn](https://www.linkedin.com/in/alexpinch/)   
 
 ## Projects  
-**FASTA-colours**
+[**FASTA-colours**](https://github.com/alexpinch/FASTA-colours)
