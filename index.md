@@ -9,6 +9,8 @@ Volunteer with the [Owens Lab](https://owensgl.github.io/)
 Media editor for the [Mental Health Society of Victoria](https://www.mhsvictoria.org/)  
   
 <img align="center" src="https://raw.githubusercontent.com/alexpinch/github-stats-transparent/output/generated/languages.svg"/>  
-  
-**Links**  
+   
 [GitHub](https://github.com/alexpinch) [LinkedIn](https://www.linkedin.com/in/alexpinch/)   
+
+## Projects  
+**FASTA-colours**
