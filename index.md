@@ -8,10 +8,6 @@ Undergrad at the University of Victoria, learning computational biology
 Volunteer with the [Owens Lab](https://owensgl.github.io/)   
 Media editor for the [Mental Health Society of Victoria](https://www.mhsvictoria.org/)  
   
-**Interests**    
-Producing music with ORCA and FL Studio  
-Code-golfing and esoteric programming languages  
-  
 <img align="center" src="https://raw.githubusercontent.com/alexpinch/github-stats-transparent/output/generated/languages.svg"/>  
   
 **Links**  
