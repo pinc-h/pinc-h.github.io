@@ -1,5 +1,5 @@
 ## Alex Pinch  
-<img align="left" src="https://raw.githubusercontent.com/alexpinch/alexpinch.github.io/gh-pages/images/me_2.png" width=220/>  
+<img align="left" src="https://raw.githubusercontent.com/alexpinch/alexpinch.github.io/gh-pages/images/me_2.png" width=215/>  
   
 **About**  
 Undergrad at the University of Victoria, learning computational biology  
