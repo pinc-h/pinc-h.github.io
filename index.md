@@ -13,7 +13,7 @@ Producing music with ORCA and FL Studio
 Code-golfing and esoteric programming languages  
   
 <img align="left" src="https://ghchart.rshah.org/alexpinch"/>  
-
+  
 **Links**
 [GitHub](https://github.com/alexpinch)  
 [LinkedIn](https://www.linkedin.com/in/alexpinch/)  
