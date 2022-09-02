@@ -3,7 +3,7 @@
   
 **About**  
 Undergrad at the University of Victoria, learning computational biology  
-In my free time, programming and data wrangling 🤠  
+Spending my free time programming and data wrangling 🤠  
   
 **Recent work**  
 Volunteer with the [Owens Lab](https://owensgl.github.io/)   
@@ -11,7 +11,7 @@ Media editor for the [Mental Health Society of Victoria](https://www.mhsvictoria
   
 <img align="center" src="https://raw.githubusercontent.com/alexpinch/github-stats-transparent/output/generated/languages.svg"/>  
    
-[GitHub](https://github.com/alexpinch) [LinkedIn](https://www.linkedin.com/in/alexpinch/)   
+| [**GitHub**](https://github.com/alexpinch) | [**LinkedIn**](https://www.linkedin.com/in/alexpinch/) |  [**Projects**](https://alexpinch.github.io/projects) 
 
 ## Projects  
 [**FASTA-colours**](https://github.com/alexpinch/FASTA-colours)
