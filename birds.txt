@@ -7,8 +7,8 @@
 4, Hooded Merganger, Lakeshore Leith, Feb 2024, A visitor at Mom's. I named him Ferdinand for someone I no longer know.
 5, Common Flicker, Leith, April 2024, Consulted Hannah because I couldn't reach my phone in time. It was pecking in Mom's lawn as Hannah said they often do.
 6, European Starling, Quadra Village Fairways, June 15 2024, Frequently heard but seldom seen in this parking lot. If my hands were unburdened with bags I might have fed him.
-7, Glaucous-winged Gull, Uplands Park, May 10 2024, My first foray into gull ID. Hannah corrected.
-8, Cooper's Hawk, Near Royal Athletic Park, June 11 2024, Pestered by a crow as Hannah pointed out.
+7, Glaucous-winged Gull, Uplands Park, May 10 2024, My first foray into gull ID. Pointed out by Hannah.
+8, Cooper's Hawk, Near Royal Athletic Park, June 11 2024, Pestered by a crow. Pointed out by Hannah.
 9, Great Blue Heron, Victoria International Marina, June 6 2024, A heron pruning itself in the early morning. Fresh green sea gunk in the first low tide. Helicopters off to scout. I love the smell of jet fuel.
 10, Anna's Hummingbird, Tseycum, June 14 2024, For X-thousand heartbeats it rested on a branch above me as I ate my sandwich. I was sat in a circle with deeply ecologically minded nature freaks.
 11, Black Oystercatcher, Balmacarra Park, May 7 2024, Discovered with Quinn. Their shrieks remind us of the Pokémon we grew up with. As the tide rolled in my bag (left carelessly) got soaked.
@@ -19,11 +19,11 @@
 16, Cedar Waxwing, Esquimalt Gorge Park, June 5 2024, Up close as I was carrying pan traps from the pollinator meadow.
 17, Bald Eagle, Tseycum, June 14 2024, I have seen this bird before but this date gets remembered. Thought ab my time pulling ivy here all week and restoration work suddenly revealed itself to me.
 18, Black-capped Chickadee, Hibou, March 2024, A birdhouse along the trail in Hibou has a tenant. It's call is Dad's. His voice is in every one.
-20, Violet-green Swallow, Panama Flats, May 6 2024, Pointed out by Evan Lewis on his birdwalk.
-21, Semipalmated Plover, Panama Flats, May 6 2024, Pointed out by Evan Lewis on his birdwalk.
-22, Least Sandpiper, Panama Flats, May 6 2024, Pointed out by Evan Lewis on his birdwalk.
-23, Western Sandpiper, Panama Flats, May 6 2024, Pointed out by Evan Lewis on his birdwalk.
-24, Common Yellowthroat, Panama Flats, May 6 2024, Pointed out by Evan Lewis on his birdwalk.
+20, Violet-green Swallow, Panama Flats, May 6 2024
+21, Semipalmated Plover, Panama Flats, May 6 2024
+22, Least Sandpiper, Panama Flats, May 6 2024
+23, Western Sandpiper, Panama Flats, May 6 2024
+24, Common Yellowthroat, Panama Flats, May 6 2024
 25, Barn Swallow
 26, Common Loon, Lakeshore Leith
 27, Canada Goose, Esquimalt Gorge Park
@@ -51,6 +51,7 @@
 49, Feral Pigeon, Naples, November 17 2023
 50, Western Screech Owl, I forget, June 17 2024, Some wonderful people took a drunken me to hear my 50th bird last night. I can't remember where they took me but there's an owl out there that does.
 51, Red-tailed Hawk, Esquimalt Gorge Park, June 18 2024, Emily pointed this one out. Like the Cooper's Hawk I saw a few weeks ago it was being pestered by crows. I've got to stop meeting them like this.
-52, Dark-eyed Junco, Downtown Victoria, July 3 2024, The sun is setting over a fire escape downtown. A little haven carved out by Shania, feeders affixed to the window. She tells me there's a regular called One-legg'd John. This one had two.
+52, Dark-eyed Junco, Downtown Victoria, July 3 2024, The sun is setting over a fire escape downtown. A little haven carved out by Shania, feeders affixed to the window. She tells me there's a regular called One-foot John. This one had two.
 53, Chestnut-backed Chickadee, Downtown Victoria, July 3 2024, Again on Shania's fire escape. She tells me there's no Black-capped Chickadee on the island. An unceremonious realization. The orange light hits them well.
 54, Bewick's Wren, Quadra Village, July 4 2024, Something smaller than a sparrow rested on the railing outside my front door. It's tongue waggled with its upward facing symphony.
+55, Killdeer, Patricia Bay Hwy, July 2023, The details here are fading but a moment is etched. Against an Aegean sky it curves past the tree-line. P.O.B.H Index: 1.
