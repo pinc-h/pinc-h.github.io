@@ -61,3 +61,6 @@
 59, Short-eared Owl, Neville Saskatchewan, August 10 2024
 60, Pheasant, Neville Saskatchewan, August 10 2024
 61, Wilson's Warbler, Esquimalt Gorge Park, August 18 2024
+62, Willow Flycatcher, Esquimalt Gorge Park, August 22 2024
+63, Belted Kingfisher, Esquimalt Gorge Park, August 22 2024
+64, Yellow Warbler, Esquimalt Gorge Park, August 22 2024
